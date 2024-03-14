@@ -1,0 +1,234 @@
+#upp{
+    display: flex;
+    justify-content: space-around;
+}
+#property{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+#image{
+    height: 500px;
+    width: 500px;
+    border-radius: 50%;
+    top: 500px;
+}
+
+
+#paragraph{
+    font-size: 60px;
+    top: 40px
+}
+button{
+    padding: 20px;
+    background-color: black;
+    
+    color: antiquewhite;  
+}
+#parts{
+    display: flex;
+    justify-content: space-around;
+}
+#one{
+    display: grid;
+}
+#two{
+    display: grid;
+}
+#three{
+    display: grid;
+}
+#image1{
+    display: flex;
+    justify-content: space-around;
+}
+
+#image2{
+    display: flex;
+    justify-content: space-around;
+} 
+#space{
+    display: flex;
+    justify-content: space-between;
+}
+#bold{
+    font-size: 100px;
+    margin-right: 80%;
+}
+#image3{
+    padding: 20px;
+    width: 500%;
+    height: 500%;
+}
+#sect1{
+    display: flex;
+}
+sect2{
+    display: flex;
+}
+#aside2{
+    display: flex;
+}
+#pat{
+    display: flex;
+}
+#back{
+    text-align: center;
+    background-image: url(./images/background\ image.jpeg);
+  background-color: #cccccc; 
+  height: 500px; 
+  background-position: center; 
+  background-repeat: no-repeat; 
+
+  background-size: cover; 
+}
+
+#pad{
+    padding-top: 100px;
+}
+#back2{
+    background-image: url(./images/background2\ image.png);
+    text-align: center;
+    
+  background-color: #cccccc; 
+  height: 500px; 
+  background-position: center; 
+  background-repeat: no-repeat; 
+
+  background-size: cover; 
+}
+#butt{
+    padding-top: 200px;
+    
+    
+}
+#logos{
+    display: flex;
+    justify-content: space-around;
+}
+#icons{
+    display: flex;
+}
+footer{display: flex;
+justify-content: space-around;
+}
+
+@media only screen and (max-width: 430px) {
+    body {
+      
+      #property{
+        display: flex;
+        justify-content: space-around;
+    }
+    #image{
+        height: 50px;
+        width: 50px;
+        border-radius: 50%;
+        top: 50px;
+    }
+    #paragraph{
+        font-size: 6px;
+        top: 4px
+    }
+    button{
+        padding: 2px;
+        background-color: black;
+        
+        color: antiquewhite;  
+        #bold{
+            font-size: 10px;
+            margin-left: 4%;
+        }
+        #image3{
+            padding: 2px;
+            width: 50%;
+            height: 50%;
+        }
+        #pad{
+            padding-top: 10px;
+        }
+        #back2{
+            background-image: url(./images/background2\ image.png);
+            text-align: center;
+            
+          background-color: #cccccc; 
+          height: 5px; 
+          background-position: center; 
+          background-repeat: no-repeat; 
+        
+          background-size: cover; 
+        }
+        #butt{
+            padding-top: 20px;
+            
+            
+        }
+        #butt{
+            padding-top: 20px;
+            
+            
+        }
+        
+    }
+    }
+  }
+  @media only screen and (max-width: 912px) {
+    body {
+      
+      #property{
+        display: flex;
+        justify-content: space-around;
+    }
+    #image{
+        height: 50px;
+        width: 50px;
+        border-radius: 50%;
+        top: 50px;
+    }
+    #paragraph{
+        font-size: 6px;
+        top: 4px
+    }
+    button{
+        padding: 2px;
+        background-color: black;
+        
+        color: antiquewhite;  
+        #bold{
+            font-size: 10px;
+            margin-left: 4%;
+        }
+        #image3{
+            padding: 2px;
+            width: 50%;
+            height: 50%;
+        }
+        #pad{
+            padding-top: 10px;
+        }
+        #back2{
+            background-image: url(./images/background2\ image.png);
+            text-align: center;
+            
+          background-color: #cccccc; 
+          height: 5px; 
+          background-position: center; 
+          background-repeat: no-repeat; 
+        
+          background-size: cover; 
+        }
+        #butt{
+            padding-top: 20px;
+            
+            
+        }
+        #butt{
+            padding-top: 20px;
+            
+            
+        }
+        
+    }
+    }
+  }
